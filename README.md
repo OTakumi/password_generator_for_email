@@ -1,0 +1,2 @@
+# password_generator_for_email
+パスワードを自動生成し、パスワード通知メールの本文を生成します
